@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>demo-site</title>
+    <link href="https://SzolosyFruzsina.github.io/publii/feed.xml" rel="self" />
+    <link href="https://SzolosyFruzsina.github.io/publii" />
+    <updated>2018-05-01T23:01:35-04:00</updated>
+    <author>
+        <name>demo</name>
+    </author>
+    <id>https://SzolosyFruzsina.github.io/publii</id>
+
+    <entry>
+        <title>The Purpose of This Site </title>
+        <author>
+            <name>demo</name>
+        </author>
+        <link href="https://SzolosyFruzsina.github.io/publii/the-purpose-of-this-site.html"/>
+        <id>https://SzolosyFruzsina.github.io/publii/the-purpose-of-this-site.html</id>
+
+        <updated>2018-05-01T22:54:56-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://SzolosyFruzsina.github.io/publii/media/posts/1/" alt="" />
+                The purpose of this site is to make massive sums of money! I'm not playing around. Its as simple as that!
+            ]]>
+        </content>
+    </entry>
+</feed>

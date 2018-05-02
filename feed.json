@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "demo-site",
+    "description": "",
+    "home_page_url": "https://SzolosyFruzsina.github.io/publii",
+    "feed_url": "https://SzolosyFruzsina.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "demo"
+    },
+    "items": [
+        {
+            "id": "https://SzolosyFruzsina.github.io/publii/the-purpose-of-this-site.html",
+            "url": "https://SzolosyFruzsina.github.io/publii/the-purpose-of-this-site.html",
+            "title": "The Purpose of This Site ",
+            "content_html": "The purpose of this site is to make massive sums of money! I'm not playing around. Its as simple as that!",
+            "image": "https://SzolosyFruzsina.github.io/publii/media/posts/1/",
+            "author": {
+                "name": "demo"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-05-01T22:54:56-04:00",
+            "date_modified": "2018-05-01T22:54:56-04:00"
+        }
+    ]
+}
